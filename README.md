@@ -1,3 +1,4 @@
-Countries Data
+Sorting Months 
 ==============
-Sort Countries information using AngularJS.
+
+Small project using AngularJS
